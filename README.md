@@ -2,7 +2,7 @@
 
 This repository is an archive data collected by the project CrossOver for its investigation on the Google News recommandation algorithm. 
 
-## Content analyse
+## Content analysis
 
 This data has been used and is archived by [CrossOver](https://crossover.social) for its Google News investigation.
 
